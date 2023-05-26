@@ -1,8 +1,8 @@
 These  Code for React wireframes its include a very interactive hero section made with atropos, its give 3d effect to images and 
 
-#Gsap parallax scroll effect also included these two sections are very usefull for web design website 
+<h2>Gsap parallax scroll effect also included these two sections are very usefull for web design website </h2>
 
-#To use you need install atropos and gsap 
+<h3>To use you need install atropos and gsap </h3>
 
 
 # Getting Started with Create React App
