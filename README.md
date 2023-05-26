@@ -1,7 +1,7 @@
 These  Code for React wireframes its include a very interactive hero section made with atropos, its give 3d effect to images and 
 
 <h2>Gsap parallax scroll effect also included these two sections are very usefull for web design website </h2>
-<img src="https://github.com/NandhipatiGanesh/react-wireframe2/blob/master/src/assets/Screenshot%202023-05-26%20210620.png" >
+<img src="https://github.com/NandhipatiGanesh/react-wireframe2/blob/master/src/assets/Screenshot%202023-05-26%20210620.png" alt ="atropos" >
 
 
 
